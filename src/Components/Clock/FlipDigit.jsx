@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Clock = () => {
+const FlipDigit = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Clock = () => {
   )
 }
 
-export default Clock
+export default FlipDigit
